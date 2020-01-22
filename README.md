@@ -1,3 +1,3 @@
 # Dnipro-City
-Website about Dnipro, Ukraine
+Website about Dnipro, Ukraine.
 Just for training )
